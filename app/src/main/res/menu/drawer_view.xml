@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_bar_home_button"
+        android:title="@string/nav_bar_home_button" />
+
+    <item
+        android:id="@+id/nav_bar_settings_button"
+        android:title="@string/toolbar_settings_activity" />
+    <item
+        android:id="@+id/nav_bar_character_button"
+        android:title="Chracacter Sheet" />
+</group>
+</menu>

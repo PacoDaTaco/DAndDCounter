@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">D&amp;D Counter</string>
+    <string name="nav_bar_home_button">Home</string>
+    <string name="nav_bar_settings_button">Setting</string>
+    <string name="toolbar_main_activity">Select Character</string>
+    <string name="toolbar_settings_activity">Settings</string>
+</resources>
